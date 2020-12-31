@@ -1,5 +1,9 @@
-## Hello, World! I'm Vincent 👋
+# Hello, World 🌎! I'm Vincent 👋
 
+### I'm currently working for Plooma, a start-up company 💻 here in the Philippines.
+Before that I worked for Health Maintenance Inc. as a Web Developer and build many things for HMI.
+
+My techstack is: React, React-Native, Vue.js, AWS, Firebase, MySQL, Node.js
 <!--
 **VncntDzn/vncntdzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
