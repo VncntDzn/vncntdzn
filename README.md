@@ -8,7 +8,8 @@ My techstack is: React, React-Native, Vue.js, AWS, Firebase, MySQL, Node.js
  - I built several projects using Vue.js, Express.js and MySQL.
  - I'm also one of the developer of our school's website before I was studying.
  - I'm also one of the two developers of my previous company's official website and the developer of the admin panel for that website.
- 
+
+As of 2021, I'm planning to use React as my primary library for frontend development but open for any interesting frontend frameworks.
 <!--
 **VncntDzn/vncntdzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
