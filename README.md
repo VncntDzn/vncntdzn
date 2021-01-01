@@ -4,7 +4,7 @@
 Before that I worked for Health Maintenance Inc. as a Web Developer and build many things for HMI.
 
 As of 2021, I'm planning to use React as my primary library for frontend development but open for any interesting frontend frameworks.
-My techstack is: React, React-Native, Vue.js, AWS, Firebase, MySQL, Node.js
+My techstack: React, React-Native, Vue.js, AWS, Firebase, MySQL, Node.js
 
  - I built several projects using Vue.js, Express.js and MySQL.
  - I'm also one of the developer of our school's website before I was studying.
