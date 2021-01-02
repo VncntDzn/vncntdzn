@@ -1,6 +1,6 @@
 # Hello, World 🌎! I'm Vincent 👋
 
-### I'm currently working for Plooma as a software developer 💻. Plooma is a start-up company here in the Philippines.
+### I'm currently working for a start-up company here in the Philippines as a software developer 💻.
 Before that I worked for Health Maintenance Inc. as a Web Developer and build many things for HMI.
 
 As of 2021, my techstack: React, React-Native, Vue.js, AWS, Firebase, MySQL, Node.js and Express.
