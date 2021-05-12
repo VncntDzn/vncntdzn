@@ -1,4 +1,4 @@
-# Hello, World 🌎! I'm Vincent 👋
+# Hello World 🌎! I'm Vincent 👋
 
 As of 2021, my techstack: React, Vue.js, Firebase, MySQL, Node.js and Express.
 
