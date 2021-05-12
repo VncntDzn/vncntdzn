@@ -1,9 +1,6 @@
 # Hello, World 🌎! I'm Vincent 👋
 
-### I'm currently working for a start-up company here in the Philippines as a software developer 💻.
-Before that I worked for Health Maintenance Inc. as a Web Developer and build many things for HMI.
-
-As of 2021, my techstack: React, React-Native, Vue.js, AWS, Firebase, MySQL, Node.js and Express.
+As of 2021, my techstack: React, Vue.js, Firebase, MySQL, Node.js and Express.
 
  - I built several projects using Vue.js / React, Express.js and MySQL.
  - I'm also one of the developer of our school's website before I was studying.
