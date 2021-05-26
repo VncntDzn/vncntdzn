@@ -3,8 +3,8 @@
 As of 2021, my techstack: React, Vue.js, Firebase, MySQL, Node.js and Express.
 
  - I built several projects using Vue.js / React, Express.js and MySQL.
- - I'm also one of the developer of our school's website before I was studying.
- - I'm also one of the two developers of my previous company's official website and the developer of the admin panel for that website.
+ - 💻 I'm currently building a personal project that would help traders.
+ - ⚡ Fun fact: I previously hate web development.
 
 ## 📫 How to reach me: workvpdizon@gmail.com
 <!--
