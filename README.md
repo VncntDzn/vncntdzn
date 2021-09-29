@@ -1,9 +1,8 @@
 # Hello World 🌎! I'm Vincent 👋
 
-As of 2021, my techstack: React, Vue.js, Firebase, MySQL, Node.js and Express.
+As of 2021, my techstack: React, Firebase.
 
  - I built several projects using Vue.js / React, Express.js and MySQL.
- - 💻 I'm currently building a personal project that would help traders.
 
 ## 📫 How to reach me: workvpdizon@gmail.com
 <!--
