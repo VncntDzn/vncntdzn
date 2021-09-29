@@ -2,8 +2,6 @@
 
 As of 2021, my techstack: React, Typescript and Firebase.
 
- - I built several projects React, Typescript and Firebase.
-
 ## 📫 How to reach me: workvpdizon@gmail.com
 <!--
 **VncntDzn/vncntdzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
