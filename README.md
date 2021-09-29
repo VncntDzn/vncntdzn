@@ -1,8 +1,8 @@
 # Hello World 🌎! I'm Vincent 👋
 
-As of 2021, my techstack: React, Firebase.
+As of 2021, my techstack: React, Typescript and Firebase.
 
- - I built several projects React and Firebase.
+ - I built several projects React, Typescript and Firebase.
 
 ## 📫 How to reach me: workvpdizon@gmail.com
 <!--
