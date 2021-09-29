@@ -2,7 +2,7 @@
 
 As of 2021, my techstack: React, Firebase.
 
- - I built several projects using Vue.js / React, Express.js and MySQL.
+ - I built several projects React and Firebase.
 
 ## 📫 How to reach me: workvpdizon@gmail.com
 <!--
