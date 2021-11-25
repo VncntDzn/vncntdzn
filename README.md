@@ -1,6 +1,6 @@
 # Hello World 🌎! I'm Vincent 👋
 
-As of 2021, my techstack: React, React Native, Typescript and Firebase.
+As of 2021, my techstack are: React, React Native, Typescript and Firebase.
 
 ## 📫 How to reach me: workvpdizon@gmail.com
 <!--
