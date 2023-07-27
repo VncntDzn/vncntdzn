@@ -4,7 +4,7 @@ As of 2021, my techstack are: React, React Native, Typescript and Firebase.
 
 ## 📫 How to reach me: workvpdizon@gmail.com
 
-<a href="https://app.daily.dev/designdevvince"><img src="https://api.daily.dev/devcards/6a270275ce2341a298b8fadf7dd93a23.png?r=2ei" width="400" alt="Vincent's Dev Card"/></a>
+
 <!--
 **VncntDzn/vncntdzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
